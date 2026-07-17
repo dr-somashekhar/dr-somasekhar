@@ -23,5 +23,5 @@ I am a clinical researcher and academic specializing in pharmacy practice. My wo
 ---
 
 ##  Connect With Me
-* ** Institution:** BR Nahata College of Pharmacy, Mandsaur University, Mandsaur, M.P., India
-* ** Email:** dr.somasekhar.pulamarasetti@gmail.com
+*  Institution: BR Nahata College of Pharmacy, Mandsaur University, Mandsaur, M.P., India
+*  Email: dr.somasekhar.pulamarasetti@gmail.com
